@@ -6,7 +6,7 @@ Sou estudante de Desenvolvimento de Sistemas, com interesse em desenvolvimento b
 Atualmente, dedico meus estudos aos fundamentos da programação, orientação a objetos e boas práticas de código, 
 buscando consolidar uma base técnica sólida para atuar em ambientes profissionais de desenvolvimento.
 
-## Tecnologias
+<h2>Tecnologias</h2>
 - Java
 - Lógica de Progamação
 - Orientação a Objetos
