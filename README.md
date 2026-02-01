@@ -1,4 +1,4 @@
-#👨‍💻Daniel Salustiano
+👨‍💻Daniel Salustiano
 
 **`Desenvolvedor BackEnd`**
 
